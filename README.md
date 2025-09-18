@@ -1,1 +1,1 @@
-Expense_tracker(simple)
+Expense_tracker in python
